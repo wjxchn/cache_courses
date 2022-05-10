@@ -1,0 +1,9 @@
+/.idea/
+/target/
+/target
+/bin
+/.settings
+.classpath
+.factorypath
+.project
+covbackend.iml
